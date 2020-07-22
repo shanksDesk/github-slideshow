@@ -1,6 +1,6 @@
 3.	---
 4.	
-5.	layout: slide
+5.	This is the first line i edited after 1st commit.. from the pull request
 6.	
 7.	title: "Welcome to our second slide!"
 8.	
